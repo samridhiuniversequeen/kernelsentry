@@ -1,7 +1,5 @@
 # kernelsentry
 KernelSentry is a security-focused system monitoring solution designed to detect, log, and respond to suspicious kernel-level activities. It helps protect operating systems from rootkits, privilege escalation, and low-level attacks by continuously observing kernel behavior and alerting administrators in real time.
-# KernelSentry 🛡️
-
 KernelSentry is a Linux kernel-level security monitoring tool designed to detect malicious activities, kernel exploits, and unauthorized modifications in real time.
 
 # 📌 Overview
@@ -45,6 +43,8 @@ Any abnormal or malicious activity is logged or alerted in real time.
 - Linux Operating System  
 - Root privileges  
 - Basic understanding of Linux and kernel concepts
+  <img width="1536" height="1024" alt="mindmap" src="https://github.com/user-attachments/assets/77072154-de29-43b2-a500-6ebf6c486c01" />
+
 
 #📄 Logs & Alerts
 
